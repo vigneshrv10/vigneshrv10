@@ -9,9 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshrv10/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vigneshrv10)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%2300599C.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_99220041334)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshrv10/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vigneshrv10)  [![CodeChef](https://img.shields.io/badge/CodeChef-%2300599C.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_99220041334)  
 
 ---
 
