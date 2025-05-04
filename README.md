@@ -33,7 +33,7 @@
 ✅ **Developing Back-End Apps with Node.js and Express** - IBM  
 ✅ **Oracle Cloud Infrastructure AI Certified Foundations Associate** - Oracle  
 ✅ **Power BI Job Simulation** - PwC Switzerland  
-✅ **Database Management Systems & DSA** - CodeChef  
+✅ **Database Management Systems & DSA** - CodeChef
 
 ---
 
